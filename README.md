@@ -328,7 +328,7 @@ Anomaly Flags: DIRECT_MALICIOUS_NODE, PROXIMITY_ALERT
 
 ## Team
 
-Built for **PidiHackathon** — Z.E.N.I.T.H. Team
+Built for **PidiHackathon** — Z.E.N.I.T.H. by Orion
 
 ---
 
